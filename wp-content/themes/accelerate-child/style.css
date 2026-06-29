@@ -1,0 +1,37 @@
+ /*
+ Theme Name:   Accelerate Child
+ Description:  Accelerate Child
+ Author:       Julie Van Scoy
+ Author URI:   
+ Template:    accelerate
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  accelerate-child
+*/
+
+.entry-meta .byline {
+ display: none;   
+}
+
+.entry-meta .cat-links {
+ display: none;   
+}
+
+    
+.entry-meta .sep {
+ display: none;   
+}
+
+.entry-meta {
+ padding-bottom: 10px;   
+}
+
+#header-logo-image img {
+    max-width: 750px !important;
+}
+
+#header-text-nav-container {
+    background-color: transparent !important;
+}
+

@@ -1,0 +1,4 @@
+# Recovery scratch (raw Wayback downloads, scripts, logs) — not part of the site
+_scratch/
+index_raw.html
+.DS_Store
