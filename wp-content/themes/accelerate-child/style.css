@@ -35,3 +35,7 @@
     background-color: transparent !important;
 }
 
+
+/* --- Recovery: removed Search/Archives/Meta sidebar; reflow content full-width --- */
+#secondary { display: none !important; }
+#primary { width: 100% !important; float: none !important; }
